@@ -1,0 +1,7 @@
+C:\training\csharp\AdvancedCSharp\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+C:\training\csharp\AdvancedCSharp\ThreadDemo\bin\Debug\ThreadDemo.exe
+C:\training\csharp\AdvancedCSharp\ThreadDemo\bin\Debug\ThreadDemo.pdb
+C:\training\csharp\AdvancedCSharp\ThreadDemo\obj\Debug\ThreadDemo.csprojAssemblyReference.cache
+C:\training\csharp\AdvancedCSharp\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\training\csharp\AdvancedCSharp\ThreadDemo\obj\Debug\ThreadDemo.exe
+C:\training\csharp\AdvancedCSharp\ThreadDemo\obj\Debug\ThreadDemo.pdb

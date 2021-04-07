@@ -1,0 +1,7 @@
+C:\training\csharp\ConsoleApp1\ConsoleApp2\obj\Debug\OOPsDemo2.csprojAssemblyReference.cache
+C:\training\csharp\ConsoleApp1\ConsoleApp2\obj\Debug\OOPsDemo2.csproj.CoreCompileInputs.cache
+C:\training\csharp\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\training\csharp\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\training\csharp\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\training\csharp\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\training\csharp\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
